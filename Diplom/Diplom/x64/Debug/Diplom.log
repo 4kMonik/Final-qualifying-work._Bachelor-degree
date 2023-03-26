@@ -1,0 +1,34 @@
+﻿  Diplom.cpp
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(267): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(292): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(303): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(304): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(307): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(316): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(317): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(321): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(323): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(333): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(334): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(336): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(337): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(343): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(350): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(351): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(358): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(360): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(367): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(368): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(370): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(371): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(377): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(388): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(390): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(392): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(405): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(440): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(443): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(446): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(449): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+m:\c++\diplomtry\diplom\diplom\diplom.cpp(508): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  Diplom.vcxproj -> M:\C++\DiplomTry\Diplom\x64\Debug\Diplom.exe
